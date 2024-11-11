@@ -126,4 +126,5 @@ public class Ejerarray2 {
         System.out.println("El que menos ha salido " + Ejerarray2.personas[Ejerarray2.maxmin[1]]);
 
     }
+    
 }
